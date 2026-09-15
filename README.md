@@ -356,27 +356,30 @@ FROM Employees;
 
 ### 🔗 Screenshot 1 – INNER JOIN
 
-![INNER JOIN Screenshot](screenshots/01-inner-join.png)
+<img width="1076" height="719" alt="Screenshot 2026-09-15 200007" src="https://github.com/user-attachments/assets/001acaf2-f712-4f9a-a632-c1c7dd22f886" />
+
 
 ### 🔗 Screenshot 2 – LEFT JOIN
 
-![LEFT JOIN Screenshot](screenshots/02-left-join.png)
+<img width="1078" height="719" alt="Screenshot 2026-09-15 200047" src="https://github.com/user-attachments/assets/c50382f2-5316-4f65-bd1a-d2a8cfbb0964" />
+
 
 ### 🔗 Screenshot 3 – RIGHT JOIN
 
-![RIGHT JOIN Screenshot](screenshots/03-right-join.png)
+<img width="1076" height="716" alt="Screenshot 2026-09-15 200113" src="https://github.com/user-attachments/assets/4e570816-25ff-4467-acf5-2b82c7483607" />
+
 
 ### 🔗 Screenshot 4 – FULL OUTER JOIN
 
-![FULL OUTER JOIN Screenshot](screenshots/04-full-outer-join.png)
+<img width="1075" height="715" alt="Screenshot 2026-09-15 200142" src="https://github.com/user-attachments/assets/1a10db1b-64cd-4619-8803-cf0f43bd571b" />
+
 
 ### 🔗 Screenshot 5 – Subquery
 
-![Subquery Screenshot](screenshots/05-subquery.png)
+<img width="1076" height="718" alt="Screenshot 2026-09-15 200227" src="https://github.com/user-attachments/assets/764e42c0-fe7c-46cf-8ea4-4d79875cae70" />
 
-> 📌 **GitHub tip:** Create a `screenshots` folder in your repository and upload your 5 screenshots using the filenames shown above.
 
----
+
 
 ## 🎥 Project Video
 
