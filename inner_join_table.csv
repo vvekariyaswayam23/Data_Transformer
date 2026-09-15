@@ -1,0 +1,7 @@
+OrderID,FirstName,LastName,OrderDate,TotalAmount
+101,John,Doe,2023-07-01,150.50
+103,John,Doe,2023-07-05,750.00
+102,Jane,Smith,2023-07-03,200.75
+104,Mike,Brown,2023-07-10,1200.00
+105,Alice,Wilson,2023-07-15,650.00
+106,David,Lee,2023-07-20,1800.00
